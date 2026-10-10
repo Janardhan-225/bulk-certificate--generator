@@ -1,0 +1,4 @@
+Flask>=3.0
+reportlab>=4.0
+# only needed to run the tests (reads text back out of generated PDFs)
+pypdf>=4.0
